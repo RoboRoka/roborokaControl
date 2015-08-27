@@ -1,0 +1,23 @@
+{
+  "name": "roborokaControl",
+  "version": "0.1.0",
+  "description": "Welcome your robotic javascript overlords. Better yet, program them!",
+  "author": {
+    "name": "Goran Blažič",
+    "email": "goranche@me.com",
+    "url": "http://goranche.net"
+  },
+  "main": "./control",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/https://github.com/RoboRoka/roborokaControl"
+  },
+  "dependencies": {
+    "serialport": "^1.7.4",
+    "terminal-menu": "^2.1.1"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT"
+}
